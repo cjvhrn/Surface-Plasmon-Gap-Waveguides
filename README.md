@@ -1,8 +1,8 @@
 # Surface-Plasmon-Gap-Waveguides
 
-Current works on SPGWs and gaps (cited the SPGW papers)
+1- Current papers on SPGWs and gaps (cited the SPGW papers)
 
-Review of numerical method simulating propation of EM waves in SPGWs
+2- Review of numerical method simulating propation of EM waves in SPGWs
 
-Python code for simulation (numpy package, fft,dft functions)
+3- Python code for simulation (numpy package, fft,dft functions)
 
